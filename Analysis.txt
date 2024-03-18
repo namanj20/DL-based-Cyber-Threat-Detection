@@ -1,0 +1,78 @@
+Total No. Of Rows  -> 61,489                                                              # To Ask :- why used sigmoid
+												      why used categorical_entropy
+Total No. of Files -> 75 Files
+
+Day1 -> Recon -> OS Scan             -> 7067 (1 File)
+               -> Port Scan          -> 6005 (2 Files)
+               -> Vulnerability Scan -> 3020 (4 Files)
+
+Day2 -> Benign -> 5100 (21 Files)
+
+Day3 -> DoS -> DNS Flood  -> 6806 (2 Files)
+            -> ICMP Flood -> 8299 (2 Files)
+            -> SYN Flood  -> 6069 (5 files)
+            -> Slowloris  -> 6603 (4 Files)
+
+Day4 -> Spoofing -> ARP Spoofing -> 7116 (20 Files)
+
+Day5 -> Benign -> 5404 (14 Files)
+
+Total Benign Rows  -> 10,504
+
+Total rows Day 1 -> 16,092
+
+Total rows Day 2 -> 5100
+
+Total rows Day 3 -> 27,777
+
+Total rows Day 4 -> 7116
+
+Total rows Day 5 -> 5404
+
+Total rows Day 5 -> 5404
+
+
+Adam, RMSprop, SGD , Adagrad -->>> seaborn for both Accuracy and loss
+
+Confusion matrix, precision , f1 , recall
+
+Start the model from fresh for each optmizier 
+
+
+Introduction -> 4,5 paras -> 2,3 related work -> 1st para justify the title 
+
+(12,10)
+
+Performance evaluation _> 1st paragraph -> experimetnal setup, what device? show consistency
+              -> show epoch, learning rate, batch size, optimizers, 4 digit
+                - explain accuracy curve
+ 		- explain loss curve
+		- explain precision,f1, recall
+		- confusion matrix
+
+\figurename \ \ref{fig:3} 
+		- best f1 score
+
+		plot the model 
+
+Find papers on cryptography, ML , DL 
+Our key players are :- wired, wireless
+Many researchers have contributed:-
+IEEE ELSEVIWER ACM :-  Click on site, BIB text, remove abstract & keyword
+second name \emph{et al} \cite {key}
+
+system model :- define variables, define modules, explain model, alert authority , 2 paras
+
+proposed approach 3 layers :- communication :- how is data transfered, what data , what devices
+	    		      describe our model in detail
+
+			       
+$\alpha$
+$pi_{}$ 
+	  
+1st subsection :- explain communication, communication protocol
+2nd subsection :- Dataset description, pre processing, 
+3rd Subsection :- alert authority, continue communication
+
+Changes:- Abstract ----> cyber-security-related challenges -> change -> cyber-security-related challenges 
+	  
